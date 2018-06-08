@@ -74,9 +74,8 @@ twint.run.Search(c)
 - CSV
 - JSON
 - SQLite
-- Mysql (DB collation utf8mb4)
 - Elasticsearch
-
+- MySQL (See MySQL Branch)
 ### Elasticsearch Setup
 
 Details on setting up Elasticsearch with Twint is located in the [wiki](https://github.com/haccer/twint/wiki/Elasticsearch). 
