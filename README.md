@@ -20,6 +20,11 @@ Some of the benefits of using Twint vs Twitter API:
 - Python 3.5/3.6
 - `pip3 install -r requirements.txt`
 
+## Installing
+- **Git**: `git clone https://github.com/haccer/twint.git`
+- **Pip**: `pip3 install twint`
+- **With MySQL**: `git clone -b mysql --single-branch https://github.com/haccer/twint.git twint-mysql`
+
 ## Basic Examples and Combos.
 A few simple examples to help you understand the basics:
 
@@ -47,9 +52,6 @@ More detail about the commands and options are located in the [wiki](https://git
 
 ## Using Twint as a Module (Recommended)
 Twint can now be used as a module and supports custom formatting. **More details are located in the [wiki](https://github.com/haccer/twint/wiki/Module)**
-
-#### Install
-- `sudo pip3 install twint`
 
 #### Example
 ```python
